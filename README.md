@@ -57,4 +57,4 @@ We welcome contributions! Please open an issue or submit a pull request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-🐙 GitHub: [@r4nol](https://github.com/r4nol)
+🐙 GitHub: [@r4nol](https://github.com/r4nol) & [w1lderrrr](https://github.com/w1lderr)
